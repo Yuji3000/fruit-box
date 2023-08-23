@@ -1,0 +1,16 @@
+.fruit-box {
+  display: flex;  
+}
+
+.fruit {
+  text-align: center;
+  width: 200px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.fruit img {
+  width: 150px;
+  height: 150px;
+}
